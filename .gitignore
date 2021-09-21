@@ -2,3 +2,6 @@ Scripts
 data/data_report.jsonl
 etc
 .github
+Lib
+share
+pyvenv.cfg
